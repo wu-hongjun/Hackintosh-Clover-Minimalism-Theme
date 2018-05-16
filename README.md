@@ -3,4 +3,4 @@
 * A Minimalistic black and white theme for Clover boot loader when booting up.
 * Added in support for Ubuntu icon.
 * Created in 2016.
-<img align="center" src="https://github.com/Errrneist/Hackintosh-Minimalism/blob/master/screenshot.png" alt="Screenshot" width="100">
+<img align="center" src="https://github.com/Errrneist/Hackintosh-Minimalism/blob/master/screenshot.png" alt="Screenshot" width="1000">
