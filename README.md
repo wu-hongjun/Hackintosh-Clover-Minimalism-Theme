@@ -1,5 +1,5 @@
 # Hackintosh-Minimalism
-* Download is avaliable here by checking out the release of this project: [Release](https://github.com/Errrneist/Hackintosh-Minimalism/releases/tag/1.0).
+* Download is avaliable here by checking out the release of this project: [Release](https://github.com/Errrneist/Hackintosh-Theme-Minimalism/releases).
 * Basically, it is a Minimalistic black and white theme for Clover boot loader when booting up.
 
 ## ChangeLog
