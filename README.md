@@ -1,7 +1,8 @@
 # Hackintosh Minimalism Theme for Clover Bootloader
 * Download is avaliable here by checking out the release of this project: [Release](https://github.com/Errrneist/Hackintosh-Theme-Minimalism/releases).
 * Basically, it is a Minimalistic black and white theme for Clover boot loader when booting up.
-* Note: This theme might break if you use it on higher versions of clover bootloader cuz I made it in 2017.
+## Note
+* This theme might break if you use it on higher versions of clover bootloader cuz I made it in 2017.
 * And this theme will not work on OpenCore.
 
 ## ChangeLog
